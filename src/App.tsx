@@ -13,7 +13,7 @@ import UserManagement from './pages/admin/UserManagement';
 import KpiBuilder from './pages/kpi/KpiBuilder';
 import DashboardBuilder from './pages/dashboard/DashboardBuilder';
 import AirtableSettings from './pages/settings/AirtableSettings';
-import Profile from './pages/profile/Profile';
+import Profile from './pages/profile/profile'; // Changed from 'Profile' to 'profile'
 
 // Components
 import Layout from './components/layout/Layout';
